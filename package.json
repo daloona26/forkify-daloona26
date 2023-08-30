@@ -1,7 +1,6 @@
 {
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
-    "parcel": "^2.9.3",
     "process": "^0.11.10",
     "url": "^0.11.1"
   },
@@ -43,6 +42,7 @@
     "escape-string-regexp": "^1.0.5",
     "fill-range": "^7.0.1",
     "fractional": "^1.0.0",
+    "fracty": "^1.0.11",
     "get-port": "^4.2.0",
     "globals": "^13.20.0",
     "has-flag": "^4.0.0",
